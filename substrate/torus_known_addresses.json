@@ -1,7 +1,13 @@
 [
   {
     "address": "5EYCAe5jXm8DLvvQ2YjbsmnoMpDHAfokKZfg12KzGSSAzM4D",
-    "label": "DAO treasury",
+    "label": "DAO Treasury",
+    "source": "@aphex5",
+    "source_type": "community"
+  },
+  {
+    "address": "5DDXwRsgvdfukGZbq2o27n43qyDaAnZ6rsfeckGxnaQ1ih2D",
+    "label": "BASE Bridge",
     "source": "@aphex5",
     "source_type": "community"
   }
